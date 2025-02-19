@@ -1,7 +1,13 @@
 # HypatiaofAlexandria
 In light of the recent event that female scientists were removed from their organization's websites, I am building a system to preserve female scientists' history.
 
-## System diagram
+## Front end mock (02/19/2025)
+See [Vercel mock](https://v0-female-scientist-profiles-g90dwq.vercel.app/) (It's a mock, it hasn't connect to the real database yet)
+The front has few features:
+1. Display random female scientists profile
+2. Search female scientists by name, subject, affiliated institutions, keywords
+
+## System diagram (02/18/2025)
 ![Alt text](system_diagram.png?raw=true)
 
 ## Preserve female scientists history (02/18/2025)
