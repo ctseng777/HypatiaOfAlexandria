@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Melanie Matchett Wood",
+    "expertise": "Number theory, arithmetic statistics, arithmetic geometry, probability theory",
+    "personal bio": "Melanie Matchett Wood is a Professor of Mathematics at Harvard University whose research focuses on number theory and arithmetic statistics. A former member of the U.S. International Mathematical Olympiad team, she has held faculty positions at UC Berkeley, the University of Wisconsin, and Stanford University. Her work bridges arithmetic geometry with probability theory to address deep problems in number theory.",
+    "list_of_publications": [
+      "Nonabelian Cohen-Lenstra moments",
+      "Discriminants in the Grothendieck ring",
+      "Gauss composition over an arbitrary base",
+      "On the probabilities of local behaviors in abelian field extensions",
+      "P-orderings: a metric viewpoint and the non-existence of simultaneous orderings"
+    ],
+    "institutions_affiliated_with": [
+      "Harvard University",
+      "University of California, Berkeley",
+      "University of Wisconsin",
+      "Stanford University"
+    ]
+  },
+  {
+    "name": "Lauren K. Williams",
+    "expertise": "Cluster algebras, tropical geometry, algebraic combinatorics, amplituhedra, positive Grassmannian",
+    "personal bio": "Lauren K. Williams is the Dwight Parker Robinson Professor of Mathematics at Harvard University. A Harvard alumna with a PhD from MIT, her pioneering work in algebraic combinatorics and tropical geometry has led to major advances in our understanding of cluster algebras and the positive Grassmannian.",
+    "list_of_publications": [
+      "Enumeration of totally positive Grassmann cells",
+      "Faces of generalized permutohedra",
+      "Positivity for cluster algebras from surfaces",
+      "KP solitons, total positivity, and cluster algebras",
+      "KP solitons and total positivity of the Grassmannian"
+    ],
+    "institutions_affiliated_with": [
+      "Harvard University",
+      "University of California, Berkeley",
+      "Massachusetts Institute of Technology"
+    ]
+  },
+  {
+    "name": "Laura DeMarco",
+    "expertise": "Dynamical systems, complex dynamics, arithmetic dynamics, potential theory",
+    "personal bio": "Laura DeMarco is a Professor of Mathematics at Harvard University whose research explores the interplay between dynamical systems and complex analysis, with a particular focus on arithmetic dynamics. Her innovative contributions to the field have been recognized with prestigious awards including the Ruth Lyttle Satter Prize and election to the National Academy of Sciences.",
+    "list_of_publications": [
+      "Uniform Manin–Mumford for a family of genus 2 curves",
+      "Bifurcation measures in holomorphic dynamics"
+    ],
+    "institutions_affiliated_with": [
+      "Harvard University",
+      "University of Chicago",
+      "University of Illinois at Chicago",
+      "Northwestern University"
+    ]
+  },
+  {
+    "name": "Alison Miller",
+    "expertise": "Mathematics research and advocacy for gender equity in mathematics",
+    "personal bio": "Alison Miller is a postdoctoral fellow in the Harvard Mathematics Department. Actively engaged in initiatives to promote gender equity in the mathematical sciences, she participates in panels and discussions aimed at addressing challenges and fostering a supportive environment for women in mathematics.",
+    "list_of_publications": [],
+    "institutions_affiliated_with": [
+      "Harvard University"
+    ]
+  }
+]
+
