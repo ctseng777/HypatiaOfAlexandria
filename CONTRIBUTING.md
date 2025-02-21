@@ -9,6 +9,9 @@ pip install -r requirements.txt
 playwright install
 ```
 
+## Web scrapper research (02/20/2025)
+Tried scrapegraph-ai, but soon hit error: [KeyError: 'Input to PromptTemplate is missing variables](https://github.com/ScrapeGraphAI/Scrapegraph-ai/issues/926)
+Exploring Scrapy and created a [request](https://github.com/scrapy/scrapy/issues/6687) to integrate with AI providers
 ## Front end mock (02/19/2025)
 
 See [Vercel mock](https://v0-female-scientist-profiles-g90dwq.vercel.app/) (It's a mock, it hasn't connect to the real database yet)
